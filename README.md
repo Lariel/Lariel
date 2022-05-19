@@ -1,5 +1,9 @@
 
 🚴 🖖 👨🏻‍💻 🤘 🔭 🔥
+
+
+<a href="https://app.daily.dev/Lariel"><img src="https://github.com/Lariel/Lariel/blob/main/devcard.svg" width="400" alt="Lariel Negreiros dos Santos's Dev Card"/></a>
+
 <!--
 <div>
   <a href="https://lariel.github.io">
